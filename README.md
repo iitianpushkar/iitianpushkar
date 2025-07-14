@@ -28,14 +28,6 @@ const Pushkar = {
 | **Base Batch** | [FriendzCasino](https://github.com/iitianpushkar/FriendzCasinoOnBase)  | –           | A room-based multiplayer on-chain casino—where friends gather, wager crypto, and enjoy provably fair games powered by blockchain. |
 | **ZKVerify** | [Zk-plagiarism detector](https://github.com/iitianpushkar/ZK-PlagiarismDetector) | –         | A privacy-preserving plagiarism detector using zk-proofs (RISC0) to verify document originality on EduChain and mint NFTs as authenticity certificates. |
 | **Agentic Ethereum** | [Defi-dojo](https://github.com/arnavkirti/DeFi-Dojo) | Coinbase prize pool winner | An interactive DeFi learning platform designed to educate users about decentralized finance through engaging games and simulations.
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iitianpushkar&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iitianpushkar&theme=radical" />
-</p>
 
 ---
 
