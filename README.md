@@ -1,21 +1,28 @@
-<h1 align="center">Hey 👋, I'm Pushkar Singh</h1>
-<h3 align="center">🚀 Building decentralized apps and AI agents for Web3 </h3>
+### Heyy.. 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web3+Builder+on+Ethereum,+Solana;Full-Stack+and+Blockchain+developer;Always+Learning..." />
-</p>
+I am Pushkar, a BS-MS Physics student at IIT Roorkee. I like working on AI, Cryptography, Blockchain, Distributed Systems, Compilers and Quantum Computing.
 
----
+Experience:
 
-### Projects and Hackathons
+- Research intern at [QWorld](https://qworld.net/)
+- Research Assistant at [IIT Roorkee](https://iitr.ac.in/)
+- Developer at [BlocSoc IITR](https://blocsoc.iitr.ac.in/)
 
-| Event     | Project              | Achievement | Description |
-|-----------|----------------------|-------------|-------------|
-| **Chainlink Chromion hackathon** | [Stoxly](https://github.com/iitianpushkar/Stoxly)        |    🥇$10,500 in ElizaOS Track    | Tokenization of stocks using blockchain and AI agents. |
-| **PL_GENESIS** | [NEAR.AI](https://github.com/amsorrytola/PlGenesis)        | -          | Tokenization of assets multichain using one NEAR chain key leveraging cross-chain signature. |
-| **Base Batch** | [FriendzCasino](https://github.com/iitianpushkar/FriendzCasinoOnBase)  | –           | A room-based multiplayer on-chain casino—where friends gather, wager crypto, and enjoy provably fair games powered by blockchain. |
-| **ZKVerify** | [Zk-plagiarism detector](https://github.com/iitianpushkar/ZK-PlagiarismDetector) | –         | A privacy-preserving plagiarism detector using zk-proofs (RISC0) to verify document originality on EduChain and mint NFTs as authenticity certificates. |
-| **Agentic Ethereum** | [Defi-dojo](https://github.com/arnavkirti/DeFi-Dojo) | Coinbase prize pool winner | An interactive DeFi learning platform designed to educate users about decentralized finance through engaging games and simulations.
+Hackathons:
 
----
+- First Prize Winner for ElizaOS track in Chainlink Chromion Hackathon
+- Runner-up in TriHacker Hackathon by The Residency Bangalore House
+- AgentKit Pool Prize Winner at Agentic Ethereum Hackathon
+- Top 5 in DeFi track of Mantle Global Hackathon
 
+Projects:
+
+- [UniCloak](https://github.com/iitianpushkar/Unicloak)
+- [C2F.Pay](https://github.com/iitianpushkar/c2f.pay)
+- [Stoxly](https://devfolio.co/projects/stoxly-8cdb)
+
+Contact me here!
+
+- LinkedIn: [Pushkar Kumar](https://www.linkedin.com/in/pushkar-kumar-17a763292)
+- X: [0xPushkar](https://x.com/0xPushkar)
+- Email: pushkarsingh0587@gmail.com
